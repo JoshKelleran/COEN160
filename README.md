@@ -1,1 +1,1 @@
-# COEN160
+# COEN160 Class with various programming projects and labs
